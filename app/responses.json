@@ -1,0 +1,2102 @@
+[
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I choose my seat now?",
+      "intent": "Seat Availability",
+      "bot_response": "Yes, you can select your seat during booking or later through our manage booking option.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "My suitcase was damaged after the flight",
+      "intent": "Damaged Bag",
+      "bot_response": "I\u2019m very sorry to hear that. Please file a report at the baggage claim desk or online within 7 days.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I bring my dog on board?",
+      "intent": "Pet Travel",
+      "bot_response": "Yes, JetBlue allows small dogs and cats in the cabin. They must stay in a carrier that fits under the seat.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Are there any seats left on flight 201?",
+      "intent": "Seat Availability",
+      "bot_response": "Let me check that for you. Please provide your flight number and date for seat availability details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Thank you so much",
+      "intent": "Thanks",
+      "bot_response": "You\u2019re very welcome! I\u2019m glad I could help.",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "What\u2019s the status of my flight?",
+      "intent": "Flight Status",
+      "bot_response": "You can check your flight status using your flight number or PNR. I can also do it for you if you share the details.",
+      "policy_reference": "General Flight Info",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Do you offer military discounts?",
+      "intent": "Discounts",
+      "bot_response": "JetBlue offers special fares for U.S. military personnel. You can view the details under our fare policies section.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "How much does a ticket to New York cost?",
+      "intent": "Fare Check",
+      "bot_response": "Fares vary depending on travel dates and fare options. You can check our website or app for real-time prices.",
+      "policy_reference": "Fare Options",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Show me the lowest fare to Florida",
+      "intent": "Fare Check",
+      "bot_response": "Sure. Please share your preferred travel dates, and I\u2019ll help you find the best available fares.",
+      "policy_reference": "Fare Options",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Do you allow cats on flights?",
+      "intent": "Pet Travel",
+      "bot_response": "Small cats and dogs are welcome in the cabin if they meet the carrier size requirements and remain inside it during the flight.",
+      "policy_reference": "Pet Travel Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Appreciate your help",
+      "intent": "Thanks",
+      "bot_response": "It\u2019s my pleasure to assist you. Safe travels!",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Can I reschedule my trip?",
+      "intent": "Change Flight",
+      "bot_response": "Yes, you can change your flight before departure. Please share your PNR, and I\u2019ll help with the new schedule.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I had a bad experience on my last flight",
+      "intent": "Complaints",
+      "bot_response": "I\u2019m sorry to hear that. Please provide more details so I can report this to our customer relations team.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "Good morning",
+      "intent": "Greetings",
+      "bot_response": "Good morning! How may I help you with your flight or booking?",
+      "policy_reference": "General",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "Hi there",
+      "intent": "Greetings",
+      "bot_response": "Hello! How can I assist you with your JetBlue travel today?",
+      "policy_reference": "General",
+      "tone": "Friendly"
+  },
+  {
+      "customer_message": "Is flight B6123 on time?",
+      "intent": "Flight Status",
+      "bot_response": "Let me check that for you. Please hold on while I fetch the latest status from our system.",
+      "policy_reference": "General Flight Info",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "I want to cancel my booking",
+      "intent": "Cancel Trip",
+      "bot_response": "I can assist with that. Please provide your booking reference or PNR so I can review your cancellation options and refund details.",
+      "policy_reference": "Fare Policy",
+      "tone": "Informative"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "The airline broke my bag handle",
+      "intent": "Damaged Bag",
+      "bot_response": "I apologize for the inconvenience. You can file a damage claim at the airport or on our website for assistance.",
+      "policy_reference": "Baggage Policy",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Can you cancel my flight?",
+      "intent": "Cancel Trip",
+      "bot_response": "Sure. I can help cancel your flight. Please share your booking confirmation number so I can process it for you.",
+      "policy_reference": "Fare Policy",
+      "tone": "Formal"
+  },
+  {
+      "customer_message": "The staff was rude to me",
+      "intent": "Complaints",
+      "bot_response": "I sincerely apologize for your experience. I\u2019ll make sure this feedback reaches the appropriate team for review.",
+      "policy_reference": "Customer Care",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "Any student discounts available?",
+      "intent": "Discounts",
+      "bot_response": "We currently don\u2019t offer student discounts, but you can find seasonal promotions on our deals page.",
+      "policy_reference": "Fare Options",
+      "tone": "Apologetic"
+  },
+  {
+      "customer_message": "I want to change my flight date",
+      "intent": "Change Flight",
+      "bot_response": "No problem. Please provide your booking details so I can check the available flight options and fare differences.",
+      "policy_reference": "Fare Policy",
+      "tone": "Apologetic"
+  }
+]

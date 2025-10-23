@@ -1,0 +1,22 @@
+[
+  {"intent": "book_flight", "examples": ["Book a flight to Paris", "I need a ticket to New York", "Can you book a flight for me?", "I want to make a flight reservation"]},
+  {"intent": "cancel_flight", "examples": ["I want to cancel my flight", "Cancel my ticket please", "Can you cancel my booking?", "I need to withdraw my reservation"]},
+  {"intent": "check_status", "examples": ["Check my flight status", "Is my flight delayed?", "What’s the status of flight B6123?", "Track my flight"]},
+  {"intent": "general", "examples": ["Hello", "I need help with my booking", "Good morning", "Hi there", "Hey"]},
+  {"intent": "change_flight", "examples": ["Can I reschedule my flight?", "I want to change my travel date", "Need to modify my flight", "Can I postpone my booking?"]},
+  {"intent": "seat_selection", "examples": ["Can I choose my seat?", "I want a window seat", "How do I select my seat?", "Seat preference options please"]},
+  {"intent": "fare_inquiry", "examples": ["How much is a ticket to New York?", "Show me the lowest fare to Florida", "What’s the price for economy class?", "Any offers on tickets?"]},
+  {"intent": "baggage_policy", "examples": ["My bag was damaged", "The airline broke my luggage", "How many bags can I carry?", "Baggage allowance for international flights?"]},
+  {"intent": "pet_policy", "examples": ["Do you allow cats on flights?", "Can I bring my dog?", "Pet travel rules", "Are pets allowed in the cabin?"]},
+  {"intent": "complaint", "examples": ["The staff was rude", "I want to file a complaint", "Bad service experience", "I had an issue during my flight"]},
+  {"intent": "thanks", "examples": ["Thank you", "Thanks a lot", "Appreciate your help", "You’re the best!"]},
+  {"intent": "discounts", "examples": ["Do you offer student discounts?", "Any senior citizen offers?", "Military fare options?", "Are there promotional fares?"]},
+  {"intent": "refund_status", "examples": ["What’s the status of my refund?", "When will I get my money back?", "Refund timeline", "Check refund progress"]},
+  {"intent": "check_in", "examples": ["How do I check in?", "Online check-in process?", "Can I check in early?", "When does check-in open?"]},
+  {"intent": "travel_documents", "examples": ["What documents are required?", "Do I need a visa?", "Passport requirement for domestic flight?", "Travel ID rules"]},
+  {"intent": "meals", "examples": ["Do you serve meals?", "Can I pre-order food?", "Vegetarian meal option?", "Is food included in my ticket?"]},
+  {"intent": "flight_delay", "examples": ["My flight is delayed", "How long is the delay?", "Why is my flight late?", "Delay compensation policy?"]},
+  {"intent": "wifi", "examples": ["Is Wi-Fi available on board?", "Do you provide internet service?", "Can I use Wi-Fi during flight?", "Wi-Fi charges please"]},
+  {"intent": "lounge_access", "examples": ["Can I access the airport lounge?", "Do you have lounge facilities?", "Lounge access for economy passengers?", "Business class lounge info"]},
+  {"intent": "loyalty_program", "examples": ["Tell me about your loyalty program", "How to earn reward points?", "Frequent flyer membership details", "Redeem points for tickets?"]}
+]

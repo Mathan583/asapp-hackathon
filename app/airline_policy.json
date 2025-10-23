@@ -1,0 +1,41 @@
+{
+  "book_flight": "Of course! I can help you book your flight. Please share your destination, travel date, and preferred time so I can find available options for you.",
+  
+  "cancel_flight": "I understand you'd like to cancel your booking. Please share your booking reference or PNR number so I can assist with the cancellation and refund details.",
+  
+  "check_status": "Sure! I can check your flight status for you. Please provide your flight number or booking reference so I can fetch the latest update.",
+  
+  "change_flight": "You can modify your travel date or time before departure. Please share your PNR or booking ID, and I’ll assist you with the new schedule.",
+  
+  "fare_inquiry": "Flight fares vary depending on the route, date, and class of travel. Please share your origin, destination, and date so I can find the best available fares for you.",
+  
+  "seat_selection": "Yes, you can select your seat during booking or later through the Manage Booking option. Would you like me to guide you through it?",
+  
+  "baggage_policy": "Our baggage allowance depends on your route and fare type. You can share your booking ID or route details so I can confirm your specific limits.",
+  
+  "pet_policy": "Small cats and dogs are allowed in the cabin if they meet the carrier size requirements. Please check our Pet Travel Policy for details on fees and restrictions.",
+  
+  "complaint": "I'm sorry to hear about your experience. Please share more details about the issue so I can forward it to our Customer Relations team for review.",
+  
+  "thanks": "You're very welcome! I'm glad I could assist. Wishing you a pleasant journey ahead!",
+  
+  "discounts": "We offer special discounts for students, military personnel, and senior citizens. Please let me know your eligibility so I can share the best available fares.",
+  
+  "refund_status": "Refunds are usually processed within 7–10 business days, depending on your payment method. Please provide your booking reference so I can check the current status.",
+  
+  "check_in": "You can check in online via our website or app up to 24 hours before departure. Please enter your booking reference to complete the process.",
+  
+  "travel_documents": "Travel documents depend on your route and nationality. For domestic travel, a government-issued ID is sufficient; for international flights, you’ll need a valid passport and visa where applicable.",
+  
+  "meals": "Yes, we offer meal options on most flights. You can pre-book your preferred meal type during booking or through the Manage Booking section.",
+  
+  "flight_delay": "I’m sorry for the delay. Please share your flight number so I can check the latest updates and inform you about any available compensation.",
+  
+  "wifi": "Most of our aircraft are equipped with Wi-Fi. You can connect once the seatbelt sign is off and browse using the onboard Wi-Fi portal.",
+  
+  "lounge_access": "Our lounges are available for premium passengers and select loyalty members. Would you like me to check if your ticket qualifies?",
+  
+  "loyalty_program": "We have a loyalty program where you can earn and redeem points for flights, upgrades, and more. Would you like details on how to enroll?",
+  
+  "general": "I'm your airline assistant. How can I help you today?"
+}

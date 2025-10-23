@@ -1,0 +1,28 @@
+# Deep Learning & Transformers
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+sentence-transformers
+
+# Machine Learning & Data Handling
+scikit-learn
+pandas
+numpy
+
+# FastAPI & UI
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+
+# NLP Tools
+spacy
+sentencepiece
+
+# Vector DB & Optimization
+chromadb>=0.4.0
+onnxruntime
+onnxruntime-tools

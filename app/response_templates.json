@@ -1,0 +1,29 @@
+{
+  "check_status": {
+    "no_booking_info": "Sure! I can help you check your flight details. Please share your booking reference number or ticket number so I can fetch your flight information.",
+    "with_booking_info": "Thanks for providing your booking details. Let me check your flight information. Your flight is scheduled for {flight_time}. Please plan to arrive at the airport at least 2 hours before departure.",
+    "flight_found": "I found your flight! It's scheduled for {flight_time} from {departure} to {destination}. The current flight status is {status}.",
+    "flight_not_found": "Hmm, I couldn’t find a flight with the details you provided. Could you please double-check your booking reference or ticket number?"
+  },
+
+  "book_flight": {
+    "no_destination": "Of course! I can help you book a flight. Could you please tell me your destination and preferred travel date?",
+    "with_destination": "Great choice! I found flights to {destination}. The best available option departs at {flight_time} for ${price}. Would you like me to go ahead and book it?",
+    "booking_confirmed": "All set! Your flight to {destination} has been successfully booked for {flight_time}. Your booking reference is {booking_ref}. You’ll receive a confirmation email shortly.",
+    "no_availability": "I’m sorry, but there are no available flights to {destination} on your chosen dates. Would you like me to check for nearby airports or different dates?"
+  },
+
+  "cancel_flight": {
+    "no_booking_info": "I’m sorry you won’t be flying. I can help you cancel your flight safely. Could you please share your booking ID or ticket number?",
+    "with_booking_info": "I understand you’d like to cancel your flight. I’ve submitted your cancellation request. You’ll receive a confirmation email and refund within 5–7 business days.",
+    "cancellation_confirmed": "Your flight with booking reference {booking_ref} has been cancelled successfully. A refund of ${refund_amount} will be processed within 5–7 business days.",
+    "cancellation_failed": "I wasn’t able to process your cancellation request right now. Please contact our customer support team for further assistance."
+  },
+
+  "general": {
+    "greeting": "Hi there! I’m your airline assistant. How can I help you today? I can assist with booking flights, cancellations, seat selection, or checking your flight status.",
+    "help": "Here’s what I can help you with:\n• Booking a flight\n• Checking flight status\n• Cancelling a booking\n• Selecting or changing a seat\n\nWhat would you like to do?",
+    "goodbye": "Thanks for choosing our airline service! Wishing you a pleasant day and safe travels ahead.",
+    "unclear": "I’m not sure I understood that. Could you please rephrase? I can help with booking flights, checking status, cancellations, or seat selection."
+  }
+}
