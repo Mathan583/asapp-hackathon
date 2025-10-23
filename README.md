@@ -76,7 +76,19 @@ A sophisticated AI-powered airline chatbot built with FastAPI, Streamlit, and Ch
 
 ## 🚀 Usage
 
-### Running the Application
+### Quick Start (Automated)
+
+**Windows:**
+```bash
+deploy.bat deploy
+```
+
+**Linux/Mac:**
+```bash
+./deploy.sh deploy
+```
+
+### Manual Setup
 
 1. **Start the Backend Server**
    ```bash
@@ -92,6 +104,37 @@ A sophisticated AI-powered airline chatbot built with FastAPI, Streamlit, and Ch
    - Frontend: http://localhost:8501
    - Backend API: http://127.0.0.1:8000
    - API Docs: http://127.0.0.1:8000/docs
+
+### Deployment Commands
+
+**Windows (deploy.bat):**
+```bash
+deploy.bat deploy    # Full deployment
+deploy.bat start     # Start services only
+deploy.bat stop      # Stop all services
+deploy.bat restart   # Restart services
+deploy.bat status    # Show status
+deploy.bat health    # Health check
+```
+
+**Linux/Mac (deploy.sh):**
+```bash
+./deploy.sh deploy    # Full deployment
+./deploy.sh start     # Start services only
+./deploy.sh stop      # Stop all services
+./deploy.sh restart   # Restart services
+./deploy.sh status    # Show status
+./deploy.sh health    # Health check
+```
+
+### Monitoring
+
+**Run system monitoring:**
+```bash
+python monitor.py --once      # Single health check
+python monitor.py            # Continuous monitoring
+python monitor.py --interval 30  # Custom interval (30s)
+```
 
 ### API Usage
 
@@ -216,6 +259,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Dataset**: Real airline customer service interactions
 - **Technologies**: FastAPI, Streamlit, ChromaDB, SentenceTransformers
 - **AI Models**: all-MiniLM-L6-v2 for embeddings
+
+## 📚 Documentation
+
+### Runbook
+For detailed operational procedures, troubleshooting, and maintenance:
+- **[RUNBOOK.md](RUNBOOK.md)** - Complete operational guide
+- **Deployment Scripts** - Automated setup and management
+- **Monitoring Tools** - Health checks and performance tracking
+
+### Key Files
+- `RUNBOOK.md` - Operational procedures and troubleshooting
+- `deploy.sh` / `deploy.bat` - Automated deployment scripts
+- `monitor.py` - System monitoring and health checks
 
 ## 📞 Support
 
