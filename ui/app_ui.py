@@ -76,26 +76,3 @@ with st.sidebar:
     if st.button("🗑️ Clear Chat"):
         st.session_state.messages = []
         st.rerun()
-    
-    st.markdown("---")
-    st.markdown("### Quick Actions")
-    
-    if st.button("📋 Check Flight Status"):
-        st.session_state.messages.append({"role": "user", "content": "Check my flight status"})
-        st.rerun()
-    
-    if st.button("✈️ Book Flight"):
-        st.session_state.messages.append({"role": "user", "content": "I want to book a flight"})
-        st.rerun()
-    
-    if st.button("❌ Cancel Flight"):
-        st.session_state.messages.append({"role": "user", "content": "I want to cancel my flight"})
-        st.rerun()
-    
-    st.markdown("---")
-    st.markdown("### Chat Info")
-    st.info(f"💬 Messages: {len(st.session_state.messages)}")
-    
-    if st.session_state.messages:
-        st.markdown("**Last message:**")
-        st.text(st.session_state.messages[-1]["content"][:50] + "...")
